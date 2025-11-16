@@ -1,0 +1,47 @@
+# Unreal Engine specific ignores
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+
+# Plugins
+Plugins/VisualStudioTools/
+
+# IDE specific folders
+.vs/
+.idea/
+
+# Custom folders to exclude
+BP_BD/
+
+# Content exclusions - only allow NinjaGame
+Content/*
+!Content/NinjaGame/
+
+# General build files
+*.VC.db
+*.VC.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.pdb
+*.aps
+*.vspscc
+*.vssscc
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
