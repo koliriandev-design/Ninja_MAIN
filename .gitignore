@@ -17,6 +17,7 @@ BP_BD/
 # Content exclusions - only allow NinjaGame
 Content/*
 !Content/NinjaGame/
+!Content/Fab/
 
 # General build files
 *.VC.db
