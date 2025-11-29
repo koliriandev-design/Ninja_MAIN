@@ -18,6 +18,9 @@ BP_BD/
 Content/*
 !Content/NinjaGame/
 !Content/Fab/
+!Content/__ExternalActors__/
+!Content/__ExternalObjects__/
+!Content/Animations_Warrior/
 
 # General build files
 *.VC.db
