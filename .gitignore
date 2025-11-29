@@ -15,12 +15,12 @@ Plugins/VisualStudioTools/
 BP_BD/
 
 # Content exclusions - only allow NinjaGame
-Content/*
-!Content/NinjaGame/
-!Content/Fab/
-!Content/__ExternalActors__/
-!Content/__ExternalObjects__/
-!Content/Animations_Warrior/
+# Content/*
+# !Content/NinjaGame/
+# !Content/Fab/
+# !Content/__ExternalActors__/
+# !Content/__ExternalObjects__/
+# !Content/Animations_Warrior/
 
 # General build files
 *.VC.db
