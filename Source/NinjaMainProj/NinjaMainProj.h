@@ -8,6 +8,4 @@
 // Include headers for new components
 #include "Components/HealthComponent.h"
 #include "Components/CombatComponent.h"
-#include "BaseCharacter.h"
-#include "CharacterData.h"
 
